@@ -35,12 +35,14 @@ p{
     font-family: var(--default-font-family);
 }
 .about-section{
-    padding: 160px 20 px;
+    padding: 160px 20px;
 }
 .about-section-content{
 margin: 30px;
 }
-
+.portrait{
+    border-radius: 10px;
+}
 .hero{
     background:var(--secondary-color);
     text-align: center;
